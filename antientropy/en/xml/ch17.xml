@@ -442,7 +442,7 @@
         <scene id="240" background="lexingtonMA.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="continue"></bgm>
             <show chara="einNormalWinterFar" position="right"/>
-            <speak chara="einNoFace">艾妲。</speak>
+            <speak chara="einNoFace">Ada.</speak>
             <show chara="einNormalWinterFar" position="right" opacity="0.7"/>
             <show chara="adaNormalRadioFar" position="left"/>
             <speak chara="adaNoFace">42.45 degrees north latitude, 71.23 degrees west longitude - it is determined that the target area has been entered, and the search mode is now turned on.</speak>
