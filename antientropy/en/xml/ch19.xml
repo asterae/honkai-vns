@@ -9,7 +9,7 @@
         <scene id="10" background="streetProvidence.jpg">
             <bgm src="03_03_bostonNight.mp3" status="start"></bgm>
             <text>The street in front of him was throughly waterlogged.</text>
-            <text>Contrary to the mid winter weather of November, the water was not cold at all - so much so that it even felt warm instead.</text>
+            <text>Contrary to it being the mid winter weather of November, the water was not cold at all - so much so that it even felt warm instead.</text>
             <text>The wild ducks in the morning, even out of season, was swimming happily on the stagnant water.</text>
             <text>However……</text>
             <text>Everything that really happens in the world cannot be as beautiful as the one-sided perception of a few senses.</text>
@@ -20,7 +20,7 @@
             <text>The young man looked along where the girl was pointing, and saw a few huge, sharp “shells” pierced into the shriveled right rear wheel of the sports car.</text>
             <text>The water, stirred by the wheels, gradually cleared up a bit, and Welt could see some of the strange dense creatures growing there.</text>
             <text>The gray-white and purple "shells" - the same lime-sharp cones that are stuck to the tires - were huddled together irregularly.</text>
-            <text>Can't say whether it was mollusk or something else.</text>
+            <text>Can't say whether it was a mollusk or something else.</text>
             <text>In short, if you cut off all the devil's claws in hell and fold them together like sardines--probably this is what you would get.</text>
             <show chara="teslaBiteGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace" remark="next">In conclusion... this concrete road... has barnacles several times larger than usual.</speak>
@@ -104,8 +104,7 @@
             <show chara="reaNormalArmedClose" position="right" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">It was a mistake, -- but there's no need to worry too much about it.</speak>
-            <speak chara="teslaNoFace">再稍微等一会儿，我们可就神——啊不对，鸟枪换炮啦。</speak>
-            <!--  Needs some revisions.   -->
+            <speak chara="teslaNoFace">Wait a bit longer, and we'll be -- and oh no, The gun has been changed.</speak>
             <show chara="teslaShameGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltAstonishNewClose" position="right"/>
             <speak chara="weltNoFace">？？？</speak>
