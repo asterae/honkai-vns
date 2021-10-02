@@ -278,7 +278,7 @@
         <scene id="70" background="connecticutFarm.jpg">
             <bgm src="street.mp3" status="start"></bgm>
             <show chara="elaineStruggleFar" position="left"/>
-            <speak chara="elaineNoNameNoFace">Welcome to Hartford on Connecticut!</speak>
+            <speak chara="elaineNoNameNoFace">Welcome to Hartford, Connecticut!</speak>
             <show chara="elaineHematemesisFar" position="left"/>
             <speak chara="elaineNoNameNoFace">Cough——</speak>
             <show chara="elaineHematemesisFar" position="left" opacity="0.7"/>
