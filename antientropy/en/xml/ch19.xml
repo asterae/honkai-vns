@@ -61,7 +61,7 @@
             <show chara="reaSmileArmedClose" position="center"/>
             <text>The "uninvited guest", completely silent of footsteps, was dressed from head to toe in a special combat uniform --</text>
             <speak chara="einNoFace">Ah...</speak>
-            <speak chara="weltNoFace">...Miss Rheanna?</speak>
+            <speak chara="weltNoFace">...Miss Reanna?</speak>
             <goto goto="20" change="#ffffff"/>
         </scene>
         <scene id="20" background="streetProvidence.jpg">
@@ -200,7 +200,7 @@
             <speak chara="teslaNoFace">…In short, as the saying goes, "It's better than nothing". Under certain conditions, I don't deny that you can help——</speak>
             <speak chara="teslaNoFace">——"Under specific conditions".</speak>
             <show chara="teslaSnickerGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">...Miss Rheanna。</speak>
+            <speak chara="teslaNoFace">...Miss Reanna。</speak>
             <show chara="teslaSnickerGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
             <speak chara="reannaNoFace">.....Do you need me to do something?</speak>
@@ -226,11 +226,11 @@
             <show chara="yuriSeriousClose-up" position="center"/>
             <speak chara="yuriNoFace">Understood. </speak>
             <show chara="reaNormalArmedClose-up" position="center"/>
-            <speak chara="reannaNoFace">This is Rheanna Brigantia.</speak>
+            <speak chara="reannaNoFace">This is Reanna Brigantia.</speak>
             <speak chara="reannaNoFace">Already arrived at the scheduled location on the west side of Libit Park.</speak>
             <show chara="teslaNormalGlassHeadsetWinterClose-up" position="center"/>
             <speak chara="teslaNoFace">Roger that.</speak>
-            <speak chara="teslaNoFace">Miss Rheanna, please be prepared for maneuvering at any time. Once we or Yuri find a suspicious target, they will notify you as soon as possible.</speak>
+            <speak chara="teslaNoFace">Miss Reanna, please be prepared for maneuvering at any time. Once we or Yuri find a suspicious target, they will notify you as soon as possible.</speak>
             <show chara="reaNormalArmedClose-up" position="center"/>
             <speak chara="reannaNoFace">Roger that.</speak>
             <speak chara="reannaNoFace">My maneuvering time is estimated to take approximately 2 minutes at worst; my kill radius can be controlled within 10 meters in the worst case——</speak>
