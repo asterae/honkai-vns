@@ -53,7 +53,7 @@
             <show chara="morganClose" position="left"/>
             <text>Holding out a hand to the side expressionlessly...</text>
             <text>...Seems like she meant to shake hands.</text>
-            <speak chara="morganNoNameNoFace">Mikari Morgan. The person in charge of this clinic.</speak>
+            <speak chara="morganNoNameNoFace">Mikhail Morgan. The person in charge of this clinic.</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
             <speak chara="reannaNoFace">Reanna Brigantia, Valkyrie of Schicksal.</speak>
