@@ -347,7 +347,7 @@
         </scene>
         <scene id="95" background="CG19.jpg">
             <bgm src="11_17_tatakau.mp3" status="continue"></bgm>
-            <speak chara="reannaNoFace">I am the black that devours everything. I am the white that nurtures everything.</speak>
+            <speak chara="reannaNoFace">I am the Black Abyss that devours everything, the White Flower that nurtures all.</speak>
             <speak chara="reannaNoFace">I exist before creation. I exist after annihilation.</speak>
             <speak chara="reannaNoFace">Divine Key 「Abyss Flower」, 2nd level output——</speak>
             <goto goto="100" change="0"/>
