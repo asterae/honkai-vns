@@ -283,7 +283,7 @@
             <show chara="teslaShameEyeClose-up" position="back"/>
             <speak chara="teslaNoFace">Do you understand? These are people who can't believe they're just a product of nature, a by-product of the natural evolution of everything.</speak>
             <show chara="teslaSnickerEyeClose-up" position="back"/>
-            <speak chara="teslaNoFace">They would rather us be "great" in a fictional concept than to get to know ourselves in a down-to-earth/realistic manner.</speak>
+            <speak chara="teslaNoFace">They would rather us be "great" in a fictional concept than to get to know ourselves in a realistic down-to-earth manner.</speak>
             <speak chara="teslaNoFace">It is precisely because they are so afraid of death that they prefer to look at everything — no different from those Kings who shout "The Divine Right of Kings."</speak>
             <goto goto="1090" change="#ffffff"/>
         </scene>
