@@ -74,7 +74,7 @@
             <speak chara="teslaNoFace">（it turns out that the combat suit is neither glittering, nor blue and white...）</speak>
             <show chara="teslaBoringGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="reaEmbarraArmedClose" position="right"/>
-            <speak chara="reannaNoFace">Huh?Excuse me?</speak>
+            <speak chara="reannaNoFace">Huh? Excuse me?</speak>
             <show chara="reaEmbarraArmedClose" position="right" opacity="0.7"/>
             <show chara="teslaErGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Well. It is OK.</speak>
@@ -132,7 +132,7 @@
             <show chara="alexClose" position="right"/>
             <show chara="yuriSadClose" position="center"/>
             <text>Three people, tall and thin, and two armored combat vehicles that didn't seem to solve the problem at all.</text>
-            <text>Looking back at the Valkyrie Rheanna, and then looking at these "civil servants" in front of her, Tesla felt a sharp stomachache.</text>
+            <text>Looking back at the Valkyrie Reanna, and then looking at these "civil servants" in front of her, Tesla felt a sharp stomachache.</text>
             <goto goto="40" change="0"/>
         </scene>
         <scene id="40" background="universityMorning.jpg">
@@ -151,7 +151,7 @@
             <show chara="teslaDisgustedGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">So, what is happening now is a Honkai event?</speak>
             <show chara="teslaBiteGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">What's the use of giving me a couple of men with weak natural resistance?</speak>
+            <speak chara="teslaNoFace">What's the use of giving me a couple of men with weak natural Honkai resistance?</speak>
             <show chara="teslaErGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">Though thankfully, from what You said, There's a way to solve the problem……</speak>
             <show chara="teslaDisgustedGlassWinterClose" position="left"/>
@@ -167,7 +167,7 @@
                 <p class="article-text">At the Battle of Savannah in 1864 (commonly known as Sherman's March to The Sea), Sherman's forces resorted to scorched-earth tactics, destroying much of the Infrastructure of the South and destroying the wealth and fighting spirit of the Southern army and people in inhumane ways.</p>
             </remark>
             <show chara="yuriSadClose" position="right"/>
-            <speak chara="yuriNoFace">According to...Miss Edison's statement...The cost of tactical mechas is too high. When dealing with general Honkai conflict, it is better to use this kind of equipment improved from the ordinary army...More cost-effective.</speak>
+            <speak chara="yuriNoFace">According to...Miss Edison's statement...The cost of tactical mechas is too high. When dealing with general Honkai conflict, it is better to use this kind of equipment improvised from the ordinary army...More cost-effective.</speak>
             <show chara="alexClose" position="right"/>
             <speak chara="alexNoFace" remark="next">Just to add something. The so-called "tyre alloy" is the name given by Miss Edison. In fact, it is a carburized titanium (TI) uranium (U) alloy——</speak>
             <remark post="U2FsdGVkX18qFb5k3RSFaoDOxcnk">
@@ -179,13 +179,13 @@
             <show chara="alexClose" position="right" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace">——You need have to teach ME! I developed this alloy!</speak>
+            <speak chara="teslaNoFace">——You don't need to teach ME! I developed this alloy!</speak>
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace">A mass-produced alloy capable of shielding Honkai energy! The next substitute for soulium steel!</speak>
+            <speak chara="teslaNoFace">A mass-produced alloy capable of shielding Honkai energy! The next best substitute for Soulium steel!</speak>
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace">It was originally intended to be used to make the official version of the mecha! But the density is a bit too high and so the engine power couldn't keep up at all! </speak>
+            <speak chara="teslaNoFace">It was originally intended to be used to make the official version of the mechas! But the density is a bit too high and so the engine power couldn't keep up at all! </speak>
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace">Just a cheap patent worth $50,000, nothing more! </speak>
+            <speak chara="teslaNoFace">Just a cheap patent worth $50,000, and nothing more! </speak>
             <bgm src="11_17_tatakau.mp3" status="start"></bgm>
             <show chara="teslaErGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">... Ahem.</speak>
