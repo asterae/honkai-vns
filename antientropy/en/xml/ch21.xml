@@ -147,8 +147,9 @@
             <show chara="hellawesNormalClose" position="right" opacity="0.7"/>
             <show chara="elaineSmileClose" position="right"/>
             <speak chara="elaineNoFace">Heh, you're thinking too much again, aren't you?</speak>
-            <speak chara="elaineNoFace">就他们几个，哪有胆子去干提着脑袋的买卖？……唔，蛋糕吃完了耶！</speak>
+            <speak chara="elaineNoFace">There are few who have courage to do business using their heads you know?...Anyways, the cake is finished!</speak>
             <speak chara="elaineNoFace">小赫拉，去开那个吧！那个！“塞纳之花”！</speak>
+             <!-- Dialogue might need some revisions-->
             <goto goto="50" change="0"/>
         </scene>
         <scene id="50" background="backdoorClinic.jpg">
