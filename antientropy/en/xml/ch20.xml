@@ -11,7 +11,7 @@
             <text>That day, around 8 o'clock in the morning.</text>
             <bgm src="04_20_tank.mp3" status="start"></bgm>
             <show chara="teslaSnickerGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">Well, there's no need to stare at the lookout mirror now, "Temporary Chief"?</speak>
+            <speak chara="teslaNoFace">Well, there's no need to keep staring at the lookout mirror now, "Temporary Chief"?</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltNervousNewClose-up" position="right"/>
             <speak chara="weltNoFace">Already... Is it completely safe?</speak>
@@ -19,9 +19,9 @@
             <show chara="teslaSmileGlassWinterClose-up" position="left"/>
             <speak chara="teslaNoFace">This is not the epicenter of the disaster, there is no need to be worried for yourself.</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">At the very least, even if there's going to be an attack, it's going to be Reanna with a better view who's going to see it first, no?</speak>
+            <speak chara="teslaNoFace">At the very least, even if there's going to be an attack, it's going to be Reanna with a better view who's going to deal with it first, no?</speak>
             <show chara="teslaErGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">We were there to help her tear down the roof of the Rolls-Royce and make it a convertible sports car after all</speak>
+            <speak chara="teslaNoFace">We were there to help her tear down the roof of the Rolls-Royce and make it a convertible sports car after all.</speak>
             <show chara="teslaErGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltSighNewClose-up" position="right"/>
             <speak chara="weltNoFace">Well... That's also...</speak>
@@ -32,7 +32,7 @@
             <speak chara="teslaNoFace">This is a rare opportunity, so let's hurry up and seize the chance to learn more.</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltEmbarraNewClose-up" position="right"/>
-            <speak chara="weltNoFace">Learn?</speak>
+            <speak chara="weltNoFace">Learn more?</speak>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
             <show chara="einSlyWinterClose-up" position="left"/>
             <speak chara="einNoFace">Mhm. Learn how to use the Divine Key.</speak>
@@ -41,7 +41,7 @@
             <speak chara="weltNoFace">....What?</speak>
             <show chara="weltAstonishNewClose-up" position="right" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="left"/>
-            <speak chara="einNoFace">"Star of Eden".</speak>
+            <speak chara="einNoFace">The "Star of Eden".</speak>
             <speak chara="einNoFace">A powerful weapon created by using the "Herrscher Core" of the previous era's "Herrscher of Earth".</speak>
             <speak chara="einNoFace">We should all know what it is capable of and how to use it.</speak>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
@@ -54,11 +54,11 @@
             <show chara="weltAstonishNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose-up" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace">"Huh" what's to "huh" here, are you a bonehead?</speak>
+            <speak chara="teslaNoFace">"Huh", what's to "huh" here, are you a bonehead?</speak>
             <show chara="teslaDisgustedGlassWinterClose-up" position="left"/>
             <speak chara="teslaNoFace">No matter how good Reanna is, she works for Otto, the Overseer of Schicksal, who you directly confronted!</speak>
             <show chara="teslaAstonishGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">We have done so many things that he would absolutely hate, so we should be careful and prepare some means for any eventualities, right?</speak>
+            <speak chara="teslaNoFace">We have done so many things that he would absolutely hate, so it's logical that we should be careful and prepare some means for any future eventualities, no?</speak>
             <show chara="teslaBiteGlassWinterClose-up" position="left"/>
             <speak chara="teslaNoFace">And besides, if Edison were to suffer some kind of disaster, either natural or man-made --</speak>
             <show chara="teslaDisgustedGlassWinterClose-up" position="left"/>
@@ -104,12 +104,12 @@
             <speak chara="reannaNoFace">……</speak>
             <speak chara="reannaNoFace">My advice? Don't rush to send in troops with no combat experience like you did three years ago.</speak>
             <speak chara="reannaNoFace">那、根、本、不、可、能、有、任、何、意、义。</speak>
-            <speak chara="reannaNoFace">... Local organizations in North America seem capable of doing a good job of reconnaissance.</speak>
-            <speak chara="reannaNoFace">...Moreover, they are well aware that their weakness regarding combat effectiveness, So they will not make unnecessary sacrifices because of rashed advance</speak>
+            <speak chara="reannaNoFace">...Local organizations in North America seem capable of doing a good job of reconnaissance.</speak>
+            <speak chara="reannaNoFace">...Moreover, they are well aware that their weakness regarding combat effectiveness, So they will not make unnecessary sacrifices because of rashed advance.</speak>
             <speak chara="reannaNoFace">……</speak>
-            <speak chara="reannaNoFace">No way.</speak>
-            <speak chara="reannaNoFace">But if that's true...</speak>
-            <speak chara="reannaNoFace">...I'll take her head.</speak>
+            <speak chara="reannaNoFace">No...how can that be...</speak>
+            <speak chara="reannaNoFace">But, if that child Edison really was behind this...</speak>
+            <speak chara="reannaNoFace">...I'll take her head off.</speak>
             <speak chara="reannaNoFace">Literally.</speak>
             <speak chara="reannaNoFace">.....</speak>
             <!-- 
