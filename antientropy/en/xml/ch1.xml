@@ -641,7 +641,7 @@
             <show chara="teslaEmbarraGlassClose" position="center"/>
             <speak chara="teslaNoFace">… Wait.</speak>
             <speak chara="teslaNoFace">… Who's “Welt”?</speak>
-            <speak chara="teslaNoFace">… Is it this little toy-boy?</speak>
+            <speak chara="teslaNoFace">… Is it this little boy-toy?</speak>
             <show chara="teslaAngryClose" position="center"/>
             <speak chara="teslaNoFace">… Lieserl! Don't tell me that's the name you gave him?</speak>
             <show chara="teslaEmbarraGlassClose" position="center" opacity="0.7"/>
