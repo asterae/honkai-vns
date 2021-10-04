@@ -89,7 +89,7 @@
             <speak chara="nokiaNoNameNoFace">Better come with me.</speak>
             <show chara="nokiaNoNameSmileClose" position="right" opacity="0.7"/>
             <show chara="weltSurpriseClose" position="left"/>
-            <speak chara="weltNoFace">Hm … Thanks, and sorry to inconvenience you..</speak>
+            <speak chara="weltNoFace">Hm … Thanks, and sorry to inconvenience you.</speak>
             <text>This guy, although he seems a bit pretentious, he does seem like a good person after all —</text>
             <show chara="weltSurpriseClose" position="left" opacity="0.7"/>
             <show chara="nokiaNoNameSmileClose" position="right"/>
