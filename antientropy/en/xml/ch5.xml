@@ -306,7 +306,7 @@
             <show chara="planckSmileCoatClose-up" position="right"/>
             <speak chara="planckNoFace">It's analogous to us having research stations in Antarctica.</speak>
             <show chara="planckSlyCoatClose-up" position="right"/>
-            <speak chara="planckNoFace">And it does not contradict our current understanding of the Previous Civilisation.</speak>
+            <speak chara="planckNoFace">And it does not contradict our current understanding of the Previous Era.</speak>
             <text>Planck absent-mindedly plays with her long hair, as if in deliberate imitation of Schrödinger from before.</text>
             <show chara="planckSlyCoatClose-up" position="right" opacity="0.7"/>
             <show chara="nokiaSeriousEmWinterClose-upSymme" position="left"/>
@@ -318,7 +318,7 @@
             <show chara="weltSurpriseWinterClose-up" position="left"/>
             <speak chara="weltNoFace">That … </speak>
             <text> Welt, who long ago had been scratching his head in confusion, now raises his hand.</text>
-            <speak chara="weltNoFace">That “Previous Civilisation” you speak of — </speak>
+            <speak chara="weltNoFace">That “Previous Era” you speak of — </speak>
             <speak chara="weltNoFace"> — What is it exactly?</speak>
             <show chara="weltSurpriseWinterClose-up" position="left" opacity="0.7"/>
             <show chara="planckNormalCoatClose-up" position="right"/>
@@ -332,7 +332,7 @@
             <speak chara="nokiaNoFace">Then let me explain.</speak>
             <text>As an expert in ancient literature, the Finn simply could not refuse the offer.</text>
             <show chara="nokiaSmileAhWinterClose-up" position="right"/>
-            <speak chara="nokiaNoFace">The “Previous Civilisation”, as its name implies, was a scientifically- and technologically-advanced civilisation that once flourished on Earth, long before the beginning of our own history.</speak>
+            <speak chara="nokiaNoFace">The “Previous Era”, as its name implies, was a scientifically- and technologically-advanced civilisation that once flourished on Earth, long before the beginning of our own history.</speak>
             <speak chara="nokiaNoFace" remark="next">This civilisation could be traced back to the Astrakhan archaeological site number 3, from around 53,000 BC.</speak>
             <remark>
                 <p class="article-text-h">Note: </p>
@@ -359,7 +359,7 @@
             <speak chara="nokiaNoFace">We have countless different nations, countless languages, countless cultures. We have a very diverse civilisation.</speak>
             <show chara="nokiaSmileEmWinterClose-up" position="right" opacity="0.7"/>
             <show chara="weltNormalWinterClose-up" position="left"/>
-            <speak chara="weltNoFace">Wasn't it the same for the “Previous Civilisation”??</speak>
+            <speak chara="weltNoFace">Wasn't it the same for the “Previous Era”??</speak>
             <show chara="weltNormalWinterClose-up" position="left" opacity="0.7"/>
             <show chara="nokiaSmileAhWinterClose-up" position="right"/>
             <speak chara="nokiaNoFace">No, they were different. Their “entire world” had a unified language and technological system.</speak>
