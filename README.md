@@ -49,7 +49,7 @@ If you have any questions feel free to message delialala#8801 on discord.
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1-12     | listless-restless                                            | Complete                                                     |
 | 13-16    | listless-restless and asterae; based on previous work by Aiatar and zklm | Complete                                          |
-| 17-26    | Aiatar, zklm, asterae and [RaytheonThunder](https://github.com/RaytheonThunder/honkai-vns) | Complete, but may require further edits.|
+| 17-26    | Aiatar and zklm, asterae and Sacron (proofreading), [RaytheonThunder](https://github.com/RaytheonThunder/honkai-vns) | Complete, but may require further edits.|
 
 
 ### Durandal
