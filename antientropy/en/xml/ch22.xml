@@ -117,7 +117,7 @@
             </remark>
             <show chara="percivalNormalClose" position="left" opacity="0.7"/>
             <show chara="morganClose" position="right"/>
-            <speak chara="morganNoFace">What so you thinl will happen to the patient if we do not go to debridement and suture now?</speak>
+            <speak chara="morganNoFace">What so you think will happen to the patient if we do not go to debridement and suture now?</speak>
             <show chara="morganClose" position="right" opacity="0.7"/>
             <show chara="percivalNormalClose" position="left"/>
             <speak chara="percivalNoFace">……</speak>
