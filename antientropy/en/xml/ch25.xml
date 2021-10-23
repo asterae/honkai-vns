@@ -277,14 +277,14 @@
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center"/>
             <show chara="teslaBoringEyeClose-up" position="back"/>
-            <speak chara="teslaNoFace">Those who stubbornly believe that people have a so-called "soul" are either unwilling to delve into the nature of this world——</speak>
+            <speak chara="teslaNoFace">Those who stubbornly believe that people have a so-called "soul" are either unwilling to delve into the true nature of this world——</speak>
             <show chara="teslaEmbarraEyeClose-up" position="back"/>
-            <speak chara="teslaNoFace">Or, is confused by the concept of "self", and must find a "king's new clothes" to prove their "legitimacy".</speak>
+            <speak chara="teslaNoFace"> Or, it is because they have been befuddled by the concept of the “self” or “ego”, and they have to search desperately for their own “Emperor's new clothes” to prove their “legitimacy”.</speak>
             <show chara="teslaShameEyeClose-up" position="back"/>
             <speak chara="teslaNoFace">Do you understand? These are people who can't believe they're just a product of nature, a by-product of the natural evolution of everything.</speak>
             <show chara="teslaSnickerEyeClose-up" position="back"/>
-            <speak chara="teslaNoFace">They would rather us be "great" in a fictional concept than to get to know ourselves in a realistic down-to-earth manner.</speak>
-            <speak chara="teslaNoFace">It is precisely because they are so afraid of death that they prefer to look at everything — no different from those Kings who shout "The Divine Right of Kings."</speak>
+            <speak chara="teslaNoFace">They would rather us be "great" in a fictional sense than to get to know ourselves in a realistic down-to-earth manner.</speak>
+            <speak chara="teslaNoFace">It is precisely because they are so afraid of death that they prefer to look on everything around them — no different from those Kings and Queens who believe in the "The Divine Right of Kings."</speak>
             <goto goto="1090" change="#ffffff"/>
         </scene>
         <scene id="1090" background="CG12-1.jpg">
