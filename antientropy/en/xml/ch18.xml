@@ -223,7 +223,7 @@
             <show chara="teslaShameGlassHeadsetWinterClose-up" position="center"/>
             <speak chara="teslaNoFace">We are... Directly under the Schicksal Organization, Laboratory 42 of the Imperial Academy. Dr. Einstein and Dr. Tesla. You may not have heard of--</speak>
             <hide position="center"/>
-            <speak chara="yuriNoNameNoFace">How could it not have heard of it?! my God, some reliable people has finally contacted me!</speak>
+            <speak chara="yuriNoNameNoFace">How could I not have heard of it?! my God, some reliable people has finally contacted me!</speak>
             <text>The young man on the other end of the phone yelled excitedly, and then apologized again.</text>
             <speak chara="yuriNoFace">I'm really sorry...My name is Yuri Armstrong and I am on night shift today.</speak>
             <speak chara="yuriNoFace">There was an earthquake suddenly and a power outage, and the phone couldn't get through, so when the bell rang, I was very excited...</speak>
