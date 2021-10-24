@@ -142,7 +142,7 @@
             <speak chara="schroCatNoFace">...It's surprising even a weak person like you was able to fend off my attack.</speak>
             <speak chara="einNoFace">Schrodinger-san...</speak>
             <speak chara="einNoFace">No... 「you」...</speak>
-            <speak chara="einNoFace">...How do 「you」 know so much about the 「Eden's Star」?</speak>
+            <speak chara="einNoFace">...How do 「you」 know so much about the 「Star of Eden」?</speak>
             <speak chara="schroCatNoFace">Hm... Is that the question Professor Einstein, the person who has been studying by my side for 7 years, wants to ask the msot?</speak>
             <speak chara="schroCatNoFace">Well, it's fine.</speak>
             <speak chara="schroCatNoFace">That Valkyrie is distracted by my quantum doubles—— So I have plenty of time.</speak>
@@ -315,7 +315,7 @@
             <speak chara="weltNoFace">Eins...</speak>
             <show chara="weltNervousNewClose" position="right"/>
             <speak chara="weltNoFace">Would you lend me...</speak>
-            <speak chara="weltNoFace">...The 「Eden's Star」?</speak>
+            <speak chara="weltNoFace">...The 「Star of Eden」?</speak>
             <show chara="weltNervousNewClose" position="right" opacity="0.7"/>
             <show chara="einSadWinterEdenClose" position="left"/>
             <speak chara="einNoFace">.....</speak>
