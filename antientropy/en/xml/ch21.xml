@@ -59,7 +59,7 @@
             <speak chara="reannaNoFace">Reanna Brigantia, Valkyrie of Schicksal.</speak>
             <show chara="reaHahArmedClose" position="right" opacity="0.7"/>
             <show chara="morganClose" position="left"/>
-            <speak chara="morganNoFace">Your companion is repercurating thier energy next door...Do you need some? High calorie foods.</speak>
+            <speak chara="morganNoFace">Your companion is replenishing their energy next door...Do you need some? High calorie foods.</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
             <speak chara="reannaNoFace">Oh, no need. I...I had a full breakfast, haha.</speak>
@@ -129,7 +129,7 @@
             <show chara="elaineNormalClose" position="right"/>
             <speak chara="elaineNoFace">Since the sudden power failure in the middle of last night, Dr. Morgan has called all of us here—</speak>
             <show chara="elaineSmileClose" position="right"/>
-            <speak chara="elaineNoFace">As you can see, the guy next to me hasn't even changed his clothes for the night shift.</speak>
+            <speak chara="elaineNoFace">As you can see, the girl next to me hasn't even changed their clothes for the night shift.</speak>
             <show chara="elaineSmileClose" position="right" opacity="0.7"/>
             <show chara="weltAstonishNewClose" position="left"/>
             <speak chara="weltNoFace">Wait...So you were always an established..."Organization"?</speak>
@@ -148,7 +148,7 @@
             <show chara="elaineSmileClose" position="right"/>
             <speak chara="elaineNoFace">Heh, you're thinking too much again, aren't you?</speak>
             <speak chara="elaineNoFace">There are few who have courage to do business using their heads you know?...Anyways, the cake is finished!</speak>
-            <speak chara="elaineNoFace">小赫拉，去开那个吧！那个！“塞纳之花”！</speak>
+            <speak chara="elaineNoFace">Let's break open the wine bottle! That one! "“塞纳之花”" </speak>
              <!-- Dialogue might need some revisions-->
             <goto goto="50" change="0"/>
         </scene>
