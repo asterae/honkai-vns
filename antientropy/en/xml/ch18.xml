@@ -182,7 +182,7 @@
             <speak chara="einNoFace">Yes.</speak>
             <speak chara="einNoFace">These are electromagnetic pulses that are quite familiar...</speak>
             <speak chara="einNoFace">As well as，strange and terrible……</speak>
-            <speak chara="einNoFace">...Honkai Enegry pulses</speak>
+            <speak chara="einNoFace">...Honkai Energy Pulse.</speak>
             <speak chara="weltNoFace">What...</speak>
             <speak chara="einNoFace">In the worst case scenario... what happened in Berlin may happen again in New York.</speak>
             <goto goto="120" change="#ffffff"/>
@@ -256,7 +256,7 @@
             <hide position="center"/>
             <speak chara="yuriNoFace">Wait—Miss Tesla, are you talking to Dr. Einstein?</speak>
             <show chara="teslaAngryGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">Of course it's her. who else would it be？你这个啰嗦鬼！</speak>
+            <speak chara="teslaNoFace">Of course it's her. who else would it be？You rascal！</speak>
             <speak chara="teslaNoFace">She is the 12th, I am the 13th, you can just let her give orders-am I wrong?</speak>
             <hide position="center"/>
             <speak chara="yuriNoFace">……</speak>
