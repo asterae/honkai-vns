@@ -179,10 +179,10 @@
             <speak chara="weltNoFace">Another guest?</speak>
             <show chara="weltQuestionNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileLeftClose-up" position="left"/>
-            <speak chara="ritaNoFace">Er … her name was Fuhua? She said she's a friend of yours.</speak>
+            <speak chara="ritaNoFace">Er … her name was Fu Hua? She said she's a friend of yours.</speak>
             <show chara="ritaSmileLeftClose-up" position="left" opacity="0.7"/>
             <show chara="weltQuestionNewClose-up" position="right"/>
-            <speak chara="weltNoFace">Fu-Fuhua?</speak>
+            <speak chara="weltNoFace">Fu-Fu Hua?</speak>
             <speak chara="weltNoFace">W-why would she … </speak>
             <speak chara="weltNoFace">… Can I open it here and take a look?</speak>
             <show chara="weltQuestionNewClose-up" position="right" opacity="0.7"/>
