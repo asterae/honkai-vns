@@ -200,7 +200,7 @@
             <speak chara="teslaNoFace">…In short, as the saying goes, "It's better than nothing". Under certain conditions, I don't deny that you can help——</speak>
             <speak chara="teslaNoFace">——"Under specific conditions".</speak>
             <show chara="teslaSnickerGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">...Miss Reanna。</speak>
+            <speak chara="teslaNoFace">...Miss Reanna. </speak>
             <show chara="teslaSnickerGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
             <speak chara="reannaNoFace">.....Do you need me to do something?</speak>
