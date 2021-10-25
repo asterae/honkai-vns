@@ -423,14 +423,14 @@
             <show chara="reaChangeSeriousClose" position="right"/>
             <speak chara="reannaNoFace">No... this one is more dangerous than that.</speak>
             <speak chara="reannaNoFace">...After the Houkai incident in Berlin, HQ has been working on something——</speak>
-            <speak chara="reannaNoFace">——An anti-Houkai missile.</speak>
+            <speak chara="reannaNoFace">——An Anti-Honkai missile.</speak>
             <show chara="reaChangeSeriousClose" position="right" opacity="0.7"/>
             <show chara="weltNakedCoatSurpriseClose" position="left"/>
             <speak chara="weltNoFace">What is that?</speak>
             <show chara="weltNakedCoatSurpriseClose" position="left" opacity="0.7"/>
             <show chara="reaChangeSeriousClose" position="right"/>
-            <speak chara="reannaNoFace">Anti-Houkai missiles artificially condense and release vast amount of Houkai energy by producing a physical chain reaction. As a result, everything around it is exterminated.</speak>
-            <speak chara="reannaNoFace">In short, this weapon is the latest triumph card developed against Houkai beasts and Herrscher.</speak>
+            <speak chara="reannaNoFace">Anti-Honkai missiles artificially condense and release vast amount of Honkai energy by producing a physical chain reaction. As a result, everything around it is exterminated.</speak>
+            <speak chara="reannaNoFace">In short, this weapon is the latest triumph card developed against Honkai beasts and Herrscher.</speak>
             <show chara="reaChangeSeriousClose" position="right" opacity="0.7"/>
             <show chara="weltNakedCoatSurpriseClose" position="left"/>
             <speak chara="weltNoFace">If it explodes in a place like this——</speak>
