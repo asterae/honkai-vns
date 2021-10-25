@@ -294,7 +294,7 @@
             <show chara="weltNakedCoatNormalFar" position="center"/>
             <speak chara="weltNoFace">...Entering mimicry mode.</speak>
             <show chara="weltNakedCoatShoutFar" position="center"/>
-            <speak chara="weltNoFace">My fist, become a 「Judah's Oath」 that is not inferior to the real thing!</speak>
+            <speak chara="weltNoFace">My fist, become an 「Oath of Judah」 that is not inferior to the real thing!</speak>
             <goto goto="160" change="0"/>
         </scene>
         <scene id="160" background="CG26-5.jpg">
@@ -333,7 +333,7 @@
             <bgm src="04_20_Brigantia.mp3" status="continue"></bgm>
             <sound src="05_18_claw.mp3"/>
             <cg src="CG26-7.jpg" bg="CG26-7.jpg" fadeIn="0" fadeOut="1"></cg>
-            <speak chara="reannaNoNameNoFace" remark="next">「Theseus' Ship」 is called that because of Theseus!</speak>
+            <speak chara="reannaNoNameNoFace" remark="next">「Theseus' Ship」 was called that because of Theseus himself!</speak>
             <remark post="U2FsdGVkX19qTSI4PtT67p6CeBN5">
                 <p class="article-text-h">Note：</p>
                 <p class="article-text">There was a hero of the Athenians named Theseus. He was so great that the locals consecrated the ship he sailed as a monument.</p>
