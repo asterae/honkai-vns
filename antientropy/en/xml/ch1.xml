@@ -127,7 +127,7 @@
             <speak chara="5">…</speak>
             <text>Even so, I can't do anything about that. After all —</text>
             <show chara="einSmileClose" position="center"/>
-            <speak chara="einSmileClose">...Welt. W.E.L.T. </speak>
+            <speak chara="einSmileClose">… Welt. W.E.L.T. </speak>
             <speak chara="5">Eh?</speak>
             <speak chara="einSmileClose">I feel this name is just right for you. </speak>
             <speak chara="5">… Any name would do.</speak>
@@ -332,7 +332,7 @@
             <sound src="hit man.mp3"/>
             <shake position="all" time="250"></shake>
             <speak chara="teslaNoFaceNoName">Oi!! I'm speaking to you!!!</speak>
-            <text>The young man felt a heavy blow strike the back of his head..</text>
+            <text>The young man felt a heavy blow strike the back of his head.</text>
             <text>And now it's oh so dark …</text>
             <text>Eh? Why have the sparrows flown to the top of my head, and why are they now doing circles around it?</text>
             <goto goto="85" change="0"/>
@@ -641,12 +641,12 @@
             <show chara="teslaEmbarraGlassClose" position="center"/>
             <speak chara="teslaNoFace">… Wait.</speak>
             <speak chara="teslaNoFace">… Who's “Welt”?</speak>
-            <speak chara="teslaNoFace">… Is it this little toy-boy?</speak>
+            <speak chara="teslaNoFace">… Is it this little boy-toy?</speak>
             <show chara="teslaAngryClose" position="center"/>
             <speak chara="teslaNoFace">… Lieserl! Don't tell me that's the name you gave him?</speak>
             <show chara="teslaEmbarraGlassClose" position="center" opacity="0.7"/>
             <show chara="weltShameClose" position="left"/>
-            <speak chara="weltNoFace">Wait, was it me you were referring to as “little toy-boy”?!</speak>
+            <speak chara="weltNoFace">Wait, was it me you were referring to as “little boy-toy”?!</speak>
             <bgm src="lab.mp3" status="stop"></bgm>
             <end post="U2FsdGVkX18SorRINadIetIkimT9"/>
         </scene>

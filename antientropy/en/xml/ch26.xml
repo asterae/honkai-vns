@@ -90,8 +90,8 @@
             <show chara="kallenChristMercyFar" position="center"/>
             <speak chara="kallenNoNameNoFace" remark="next">Your life is "Macbeth" without its supporting cast.</speak>
             <remark post="U2FsdGVkX18BqSCxNHLELV1rn82a">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">“卡莲”所说的每句带引号台词，都是莎士比亚名作《麦克白》里的成句。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">The quoted lines spoken by Kallen is from Shakespeare's masterpiece "Macbeth".</p>
             </remark>
             <show chara="kallenChristSilentFar" position="center"/>
             <speak chara="kallenNoNameNoFace">「Thy soul's flight, if it find heaven, must find it out to-night.」</speak>
@@ -138,7 +138,7 @@
             <bgm src="8_24_war.mp3" status="continue"></bgm>
             <text>「Otto」's body was no longer able to keep its human shape.</text>
             <text>The skin made out of liquid metal had peeled off, and the machine underneath can be seen.</text>
-            <text>Welt clenched his teeth, as if the power of his entire body was being poured into the 「Eden's Star」.</text>
+            <text>Welt clenched his teeth, as if the power of his entire body was being poured into the 「Star of Eden」.</text>
             <text>I have to do my very best.</text>
             <text>If I do my best, I can put an end to this chaotic day.</text>
             <text>If I do my best, Reanna-san may be able to regain control from him.</text>
@@ -294,7 +294,7 @@
             <show chara="weltNakedCoatNormalFar" position="center"/>
             <speak chara="weltNoFace">...Entering mimicry mode.</speak>
             <show chara="weltNakedCoatShoutFar" position="center"/>
-            <speak chara="weltNoFace">My fist, become a 「Judah's Oath」 that is not inferior to the real thing!</speak>
+            <speak chara="weltNoFace">My fist, become an 「Oath of Judah」 that's not inferior to the real thing!</speak>
             <goto goto="160" change="0"/>
         </scene>
         <scene id="160" background="CG26-5.jpg">
@@ -333,14 +333,14 @@
             <bgm src="04_20_Brigantia.mp3" status="continue"></bgm>
             <sound src="05_18_claw.mp3"/>
             <cg src="CG26-7.jpg" bg="CG26-7.jpg" fadeIn="0" fadeOut="1"></cg>
-            <speak chara="reannaNoNameNoFace" remark="next">「Theseus' Ship」 is called that because of Theseus!</speak>
+            <speak chara="reannaNoNameNoFace" remark="next">「Theseus' Ship」 was called that because of Theseus himself!</speak>
             <remark post="U2FsdGVkX19qTSI4PtT67p6CeBN5">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">有一位雅典人的英雄叫做忒修斯。他很伟大，所以当地人把他曾经驾驶的船供奉了起来，当作纪念碑一样。</p>
-                <p class="article-text">但是时间无情，制造那艘船的木材，渐渐都腐朽不堪。为了不让这艘伟大的船最后只能当作祭品被烧掉，人们想出了一个好方法——每隔若干年，就检查一遍船上的所有部件，如果有朽烂的，就重做新的换掉。</p>
-                <p class="article-text">于是，很多年后，当一位哲学家前来参观的时候，船上的所有部件，都已经换过至少两次了。</p>
-                <p class="article-text">哲学家听说了这件事之后很沮丧，他质问当地人：“这还是原本的那艘船吗？”</p>
-                <p class="article-text">而当地人却满不在乎的回答：“如果您说不是的话，哲学家先生，您觉得它是什么时候开始不是的呢？您要知道，即使是在出海途中，船只也是需要时不时更换部件的呀。”</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">There was a hero of the Athenians named Theseus. He was so great that the locals consecrated the ship he sailed as a monument.</p>
+                <p class="article-text">But time is merciless, and the wood from which the ship was made gradually decayed. So that the great ship would not end up being burned as a sacrifice, they came up with a good idea: every few years, all the parts of the ship should be inspected, and if any were rotten, they would be replaced with new ones.</p>
+                <p class="article-text">So, many years later, when a philosopher came to visit, all the parts on the ship had been replaced at least twice.</p>
+                <p class="article-text">When the philosopher heard of this, he was very upset. He asked the local people, "Is this still the same ship?”</p>
+                <p class="article-text">The locals replied nonchalantly: "If you say no, Mr. Philosopher, when do you think it started not to be? You have to know that even when going out to sea, ships need to replace parts from time to time.”</p>
             </remark>
             <goto goto="210" change="0"/>
         </scene>
@@ -423,14 +423,14 @@
             <show chara="reaChangeSeriousClose" position="right"/>
             <speak chara="reannaNoFace">No... this one is more dangerous than that.</speak>
             <speak chara="reannaNoFace">...After the Houkai incident in Berlin, HQ has been working on something——</speak>
-            <speak chara="reannaNoFace">——An anti-Houkai missile.</speak>
+            <speak chara="reannaNoFace">——An Anti-Honkai missile.</speak>
             <show chara="reaChangeSeriousClose" position="right" opacity="0.7"/>
             <show chara="weltNakedCoatSurpriseClose" position="left"/>
             <speak chara="weltNoFace">What is that?</speak>
             <show chara="weltNakedCoatSurpriseClose" position="left" opacity="0.7"/>
             <show chara="reaChangeSeriousClose" position="right"/>
-            <speak chara="reannaNoFace">Anti-Houkai missiles artificially condense and release vast amount of Houkai energy by producing a physical chain reaction. As a result, everything around it is exterminated.</speak>
-            <speak chara="reannaNoFace">In short, this weapon is the latest triumph card developed against Houkai beasts and Herrscher.</speak>
+            <speak chara="reannaNoFace">Anti-Honkai missiles artificially condense and release vast amount of Honkai energy by producing a physical chain reaction. As a result, everything around it is exterminated.</speak>
+            <speak chara="reannaNoFace">In short, this weapon is the latest triumph card developed against Honkai beasts and Herrscher.</speak>
             <show chara="reaChangeSeriousClose" position="right" opacity="0.7"/>
             <show chara="weltNakedCoatSurpriseClose" position="left"/>
             <speak chara="weltNoFace">If it explodes in a place like this——</speak>
@@ -460,7 +460,7 @@
             <text article="1">
                 <p class="article-text">The logic was very easy to follow——</p>
                 <br />
-                <p class="article-text">Before the Anti-Houkai missile hits the ground, Abyss Flower will destroy the missile's detonator.</p>
+                <p class="article-text">Before the Anti-Honkai missile hits the ground, Abyss Flower will destroy the missile's detonator.</p>
             </text>
             <text article="1">
                 <p class="article-text">Her machine body has a small rocket propeller. Once she knows the location of the missile she can approach it while it's still in the air.</p>
@@ -482,12 +482,12 @@
                 <p class="article-text">「...To not hesitate and avoid the destruction caused by the missile no matter what.」</p>
             </text>
             <text article="1">
-                <p class="article-text">「By using the same principle the 『Eden's Star』 operates on, you should be able to make a shield to protect the entire city.」</p>
+                <p class="article-text">「By using the same principle the 『Star of Eden』 operates on, you should be able to make a shield to protect the entire city.」</p>
                 <p class="article-text">「...A range of 20 kilometers. By waking up all the Herrscher Core within your body that make up your DNA you should be able to withstand it—— Assuming Professor Schrodinger wasn't mistaken.」</p>
                 <p class="article-text">「Needless to say, this will put a tremendous strain on your already injured body.」</p>
             </text>
             <text article="1">
-                <p class="article-text">「However the cost of making one of these Anti-Houkai missiles is too high. Otto's intentions aside, he shouldn't be able to make another one for at least 10 years.」</p>
+                <p class="article-text">「However the cost of making one of these Anti-Honkai missiles is too high. Otto's intentions aside, he shouldn't be able to make another one for at least 10 years.」</p>
                 <br />
                 <p class="article-text">「In short—— This is the last card he has to play—— And all we have to do to win is to destroy it.」</p>
             </text>
@@ -558,7 +558,7 @@
             <speak chara="adaNoFace">Even they who had used the core of the 「1st Herrscher」 to make the 「Void Archive」, had seemingly never once created anything of this scale out of nothing.</speak>
             <speak chara="adaNoFace">The reason is very simple. The 「Void Archive」 can't withstand the ridiculous energy output needed in the first place.</speak>
             <speak chara="adaNoFace">Welt-sama—— The Herrscher who tried to do this didn't come out unscathed.</speak>
-            <speak chara="adaNoFace">As for the ignorant citizens of New York, it was as if a sudden 「meteorite rain」 fell on the city.</speak>
+            <speak chara="adaNoFace">As for the ignorant citizens of New York, it was as if a sudden 「Meteorite Rain」 fell on the city.</speak>
             <speak chara="adaNoFace">The Empire State Building collapsed and the 5th Avenue became a sea of fire.</speak>
             <speak chara="adaNoFace">But the citizens lived.</speak>
             <speak chara="adaNoFace">Aside from certain people who weren't from this city, we managed to achieve 「zero casualties」.</speak>
@@ -594,7 +594,7 @@
             <speak chara="johnSmithNoFace">Now I truly feel like Manhattan is back.</speak>
             <speak chara="newsNoFace">Welt Obelisk is the result of the skyscraper restoration project by ME Company. The design follows the 1930 version of the Empire State Building to the letter.</speak>
             <speak chara="newsNoFace">General Mechatronics went through rough times after the 「Thanksgiving Disaster」, but now reborn as ME Company they've become one of the Fortune 500 companies in the world.</speak>
-            <speak chara="newsNoFace">As both a New York citizen and a ME Company employee, this must not have been easy for him. What he is feeling surely cannot be encapsulated by a slogan like "build back better"./speak>
+            <speak chara="newsNoFace">As both a New York citizen and a ME Company employee, this must not have been easy for him. What he is feeling surely cannot be encapsulated by a slogan like "build back better".</speak>
             <speak chara="johnSmithNoFace">At the time I was just an electrician in charge of the building's security.</speak>
             <speak chara="johnSmithNoFace">When at around 3-4 o'clock, the security guard on duty suddenly started banging on my door.</speak>
             <speak chara="johnSmithNoFace">I was sleeping and he dragged me out to the street in my pajamas.</speak>

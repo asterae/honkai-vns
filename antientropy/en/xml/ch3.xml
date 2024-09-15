@@ -489,7 +489,7 @@
             </text>
             <show chara="einBlackVestClose-up" position="center" opacity="0.7"/>
             <text article="1">
-                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">You could say so..</p>
+                <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">You could say so.</p>
                 <br />
                 <p class="article-text" style="color:rgb(181,233,247);font-style:italic;">He certainly didn't know me, and it was impossible for him to know that my general theory of relativity was based on his Riemannian manifolds.</p>
                 <br />

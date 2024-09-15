@@ -181,7 +181,7 @@
             <show chara="nokiaSmileEmWinterClose" position="right" opacity="0.7"/>
             <show chara="schroNormalAhClose" position="left"/>
             <speak chara="schroNoFace"> … So? </speak>
-            <speak chara="schroNoFace"> … Should you instead be asking: from which remnant of the Previous Civilisation did a group of Jews copy this kind of thing? </speak>
+            <speak chara="schroNoFace"> … Should you instead be asking: from which remnant of the Previous Era did a group of Jews copy this kind of thing? </speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSmileAhWinterClose" position="right"/>
             <speak chara="nokiaNoFace">Correct! That's it! </speak>
@@ -220,8 +220,8 @@
             <speak chara="schroNoFace">So? </speak>
             <show chara="schroNormalEmClose" position="left" opacity="0.7"/>
             <show chara="nokiaSeriousAhWinterClose" position="right"/>
-            <speak chara="nokiaNoFace">Imagine that we are the Jews who strayed into the ruins of the Previous Civilisation. </speak>
-            <speak chara="nokiaNoFace">We see these texts which have been left behind by the previous generation of humans. And we think it's some mysterious magical text. </speak>
+            <speak chara="nokiaNoFace">Imagine that we are the Jews who strayed into the ruins of the Previous Era. </speak>
+            <speak chara="nokiaNoFace">We see these texts which have been left behind by the previous Era of humans. And we think it's some mysterious magical text. </speak>
             <speak chara="nokiaNoFace">But unfortunately, our knowledge is limited, and we cannot understand these holy books. </speak>
             <speak chara="nokiaNoFace">In this situation, if we want to force-read … </speak>
             <show chara="nokiaSeriousEmWinterClose" position="right" opacity="0.7"/>
